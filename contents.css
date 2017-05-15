@@ -1,0 +1,14 @@
+@charset "utf-8";
+#contents {
+	font-size: 24px;
+	border: thin solid #000;
+}
+#contents tr td {
+	text-align: left;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+#menu th {
+	color: #000;
+	background-color: #00F;
+}

@@ -1,0 +1,9 @@
+@charset "utf-8";
+#notice {
+	font-family: "微软雅黑";
+	font-size: 36px;
+	border: thin solid #000;
+}
+#notice tr td p {
+	font-size: 36px;
+}
