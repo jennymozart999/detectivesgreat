@@ -1,4 +1,4 @@
-[homepage](homepage.html)
+[homepage](http://zombiephan.github.io/detectivesgreat/homepage.html)
 
 ## Welcome to GitHub Pages
 
